@@ -31,7 +31,3 @@ This is a simple Todo List web application where users can add, edit, and delete
 
 ## Author
 Tuychiyev Sunnatillo
-
-``` sql
-Replace `<repository-url>` with the actual URL of your GitHub repository. Also, make sure to include any specific information about your project in the respective sections. You can add more details, screenshots, or anything else that enhances the understanding of your Todo List App.
-
