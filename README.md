@@ -21,7 +21,7 @@ This is a simple Todo List web application where users can add, edit, and delete
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sunnatTuychiyev/Todo-app.git
    ```
      1. Open the index.html file in a web browser.
      2. Start managing your tasks!
